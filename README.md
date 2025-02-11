@@ -1,6 +1,5 @@
 # 👋 Hi, I'm **Harpreet Singh**
 
-
 ## 🚀 About Me
 🎓 **AI and Data Science Enthusiast** | 🌟 **Life-Long Learner** | 💡 **Problem Solver**
 
@@ -27,19 +26,24 @@ I am passionate about leveraging data to uncover insights and create impactful s
 ---
 
 ## 🌟 Projects
-### **1. Eco Eye**
+### **1. SenseTheScene – Movie Descriptor for Visually Impaired Users**
+- 🎥 Developed an AI-powered movie descriptor for visually impaired users to provide real-time, detailed movie descriptions of visuals, facial expressions, and actions.
+- 🧠 Tech: OpenCV, YOLOv5, TensorFlow, PyTorch, OCR, LLMs, Jenkins, GitHub.
+- 🚀 Conducted analysis to understand the need for inclusive movie experiences, addressing gaps in current audio descriptions to ensure better accessibility for the visually impaired.
+
+### **2. Eco Eye**
 - 🐦 AI-powered bird species identification and migration tracking.
 - 🚀 Tech: OpenCV, ResNet50, Tableau.
 
-### **2. GAN for Image Generation**
+### **3. GAN for Image Generation**
 - 🎨 Developed a Generative Adversarial Network (GAN) to create realistic handwritten digits.
 - ⚙️ Tech: TensorFlow, Keras, MNIST dataset.
 
-### **3. NLP: Sentiment Analysis**
+### **4. NLP: Sentiment Analysis**
 - 🗨️ Built a model to analyze and classify customer reviews into positive, negative, or neutral sentiments.
 - ⚙️ Tech: Word2Vec, Bidirectional LSTM, TensorFlow.
 
-### **4. Flood Warning Device**
+### **5. Flood Warning Device**
 - 🌊 IoT-based flood detection system inspired by UN Global Goals 14 & 15.
 - ⚙️ Includes waterproof housing and radio-alert systems.
 
